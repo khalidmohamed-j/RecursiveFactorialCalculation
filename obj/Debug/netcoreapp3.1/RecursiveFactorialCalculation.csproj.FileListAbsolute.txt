@@ -1,0 +1,11 @@
+C:\Users\khali\source\repos\RecursiveFactorialCalculation\bin\Debug\netcoreapp3.1\RecursiveFactorialCalculation.exe
+C:\Users\khali\source\repos\RecursiveFactorialCalculation\bin\Debug\netcoreapp3.1\RecursiveFactorialCalculation.deps.json
+C:\Users\khali\source\repos\RecursiveFactorialCalculation\bin\Debug\netcoreapp3.1\RecursiveFactorialCalculation.runtimeconfig.json
+C:\Users\khali\source\repos\RecursiveFactorialCalculation\bin\Debug\netcoreapp3.1\RecursiveFactorialCalculation.runtimeconfig.dev.json
+C:\Users\khali\source\repos\RecursiveFactorialCalculation\bin\Debug\netcoreapp3.1\RecursiveFactorialCalculation.dll
+C:\Users\khali\source\repos\RecursiveFactorialCalculation\bin\Debug\netcoreapp3.1\RecursiveFactorialCalculation.pdb
+C:\Users\khali\source\repos\RecursiveFactorialCalculation\obj\Debug\netcoreapp3.1\RecursiveFactorialCalculation.csprojAssemblyReference.cache
+C:\Users\khali\source\repos\RecursiveFactorialCalculation\obj\Debug\netcoreapp3.1\RecursiveFactorialCalculation.AssemblyInfoInputs.cache
+C:\Users\khali\source\repos\RecursiveFactorialCalculation\obj\Debug\netcoreapp3.1\RecursiveFactorialCalculation.AssemblyInfo.cs
+C:\Users\khali\source\repos\RecursiveFactorialCalculation\obj\Debug\netcoreapp3.1\RecursiveFactorialCalculation.dll
+C:\Users\khali\source\repos\RecursiveFactorialCalculation\obj\Debug\netcoreapp3.1\RecursiveFactorialCalculation.pdb
